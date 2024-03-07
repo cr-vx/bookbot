@@ -1,4 +1,5 @@
-# bookbot
+# Text analyzer
 
 based on a [boot.dev](https://www.boot.dev/) course.  
-1st time doing a bigger python project. 
+
+nothing special going on in here, just farming some xp.  
